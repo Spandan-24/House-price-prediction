@@ -1,7 +1,7 @@
 # House-price-prediction
 A machine learning project that predicts house prices based on key property features such as location, size, number of rooms, and more. This repository includes data preprocessing, exploratory data analysis (EDA), feature engineering, model training, evaluation, and deployment-ready code.
 
-📊 Project Overview
+📊 Project Overview : 
 The goal of this project is to build a regression model capable of accurately predicting house prices. It demonstrates a complete machine learning workflow, from raw data to a trained model ready for real‑world use.
 
 ✨ Features
